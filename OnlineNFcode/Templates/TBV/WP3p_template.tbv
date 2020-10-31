@@ -1,0 +1,78 @@
+
+FileVersion:                      4
+
+MergeType:                        0
+
+Title:                            "%s"
+
+ParadigmHelpFile:                 ""
+IFISfMRIAnalysisTests:            tdat
+IFISfMRIAnalysisOptions:          tdat
+
+RawDataBigEndian:                 0
+
+ShowGODlgAfterPreparation:        0
+
+WatchFolder:                  "%s"
+TargetFolder:                     "%s"
+
+DataType:                         PHILIPS_ANALYZE_DRIN
+
+FirstFileName:                    "DRIN-00001.img"
+InplaneFoVX:                      210
+InplaneFoVY:                      210
+SliceThickness:                   2.5
+GapThickness:                     0.2
+ImageTransformation:              2
+
+TimeOutSeconds:                   60
+
+MatrixSizeX:                      96
+MatrixSizeY:                      96
+
+NrOfVolumes:                      %s
+NrOfVolumesToSkip:                10
+
+NrOfSlices:                       52
+
+SlicePrefix:                      "%s-"
+ProjectName:                      "%s"
+
+TR:                               2000
+InterSliceTime:                   80
+
+ROIColorsFile:                    ""
+
+MultiSliceROISelection:           1
+
+Threshold:                        3
+ClusterSizePixels:                4
+
+NrOfColumns:                      7
+NrOfRows:                         8
+
+ForceTRDelay:                     0
+
+StimulationProtocol:              "%s"
+ContrastFile:                     ""
+
+AutoContrastGenerationLevel:      2
+
+DriftConfoundPredictors:          2
+
+MotionCorrection:                 1
+
+SpatialGaussianSmoothing:         1
+SpatialSmoothingFWHM:             5
+
+OverlayInplaneData:               0
+
+FlipSliceOrderInVolumeView:       1
+
+IntraSessionMotionCorrection:     0
+
+OverlayOnVMRMode:                 0
+
+OverlayOnSRFMode:                 0
+
+FeedbackTargetFolder:             "%s"

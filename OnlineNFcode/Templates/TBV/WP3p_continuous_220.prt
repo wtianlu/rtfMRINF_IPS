@@ -1,0 +1,44 @@
+
+FileVersion:        2
+
+ResolutionOfTime:   Volumes
+
+Experiment:         NSL
+
+BackgroundColor:    0 0 0
+TextColor:          255 255 255
+
+TimeCourseColor:    255 168  88
+TimeCourseThick:    2
+ReferenceFuncColor: 30 200 30
+ReferenceFuncThick: 2
+
+NrOfConditions:  2
+
+Rest
+9
+   1   10
+  26   35
+  51   60
+  76   85
+ 101  110
+ 126  135
+ 151  160
+ 176  185
+ 201  210
+Color: 66 195 99
+
+Regulate
+8
+  11   25
+  36   50
+  61   75
+  86  100
+ 111  125
+ 136  150
+ 161  175
+ 186  200
+Color: 255 254 88
+
+
+ResponseConditions:  0

@@ -1,0 +1,8 @@
+
+NrOfTCs:               1
+FromSlice:             %d
+Left:                  %d
+Right:                 %d
+Top:                   %d
+Bottom:                %d
+NrOfVoxels:            %d

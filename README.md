@@ -19,5 +19,5 @@ This repository contains the scripts needed to reproduce the setup in the paper 
   * WP3_3_analyse_nii.m
   * WP3_3_analyse_tva.m
   * WP3_4_analyse_fc.m
-  * vis_wuestionnairedata.m
+  * vis_questionnairedata.m
 * Documentation

@@ -8,9 +8,16 @@ This repository contains the scripts needed to reproduce the setup in the paper 
 ## Contents
 
 * Paradigm
-  * Online NF
+  * Online NF code
+    * main_nf.m: main experiment code
+    * ds_check.m: script for online data quality checking
+    * Templates/: NIFTI ROI and Turbo Brainvoyager settings templates to be customised for each individual participant 
+    * functions/
   * CombiTVA assessment
-  * Questionnaires
+    * CombiTVA.py: main experiment code
+    * iViewXAPI.py: SMI eye tracker script
+    * masks/
+  * Questionnaires: TBA
 * Analysis code
   * Functions/
   * WP3_main_analysis.m
@@ -20,4 +27,14 @@ This repository contains the scripts needed to reproduce the setup in the paper 
   * WP3_3_analyse_tva.m
   * WP3_4_analyse_fc.m
   * vis_questionnairedata.m
-* Documentation
+* Documentation: TBA
+
+## Software requirements
+
+The Matlab scripts have been tested in Matlab 2016b. The Python scripts have been tested in Python 2.7. 
+
+## Citation
+
+For usage of the scripts and the associated manuscript, please use the following:
+
+Tianlu Wang, Ronald Peeters, Dante Mantini, Céline R. Gillebert (under review). Modulating the interhemispheric activity balance in the intraparietal sulcus using real-time fMRI neurofeedback: development and proof-of-concept. 

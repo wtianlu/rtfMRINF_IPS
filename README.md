@@ -37,4 +37,4 @@ The Matlab scripts have been tested in Matlab 2016b. The Python scripts have bee
 
 For usage of the scripts and the associated manuscript, please use the following:
 
-Tianlu Wang, Ronald Peeters, Dante Mantini, Céline R. Gillebert (under review). Modulating the interhemispheric activity balance in the intraparietal sulcus using real-time fMRI neurofeedback: development and proof-of-concept. 
+Tianlu Wang, Ronald Peeters, Dante Mantini, Céline R. Gillebert (2020). Modulating the interhemispheric activity balance in the intraparietal sulcus using real-time fMRI neurofeedback: development and proof-of-concept. NeuroImage: Clinical. doi:10.1016/j.nicl.2020.102513
